@@ -17,10 +17,10 @@ class App(QMainWindow):
         # Loading Main UI Design Files ↓
         uic.loadUi(appFolder + 'uicgpa.ui', self)
 
-        #calling  main funtion
+        # calling  main funtion
         self.sakib()
 
-        #to show statusbar
+        # to show statusbar
         self.statusBar().showMessage("Fill up all 2 boxes."
                                      "Default per theory subject's credit is 3.00 and per lab subject's credit is 1.50")
         self.msg = QMessageBox()
