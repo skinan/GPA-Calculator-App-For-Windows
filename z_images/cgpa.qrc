@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="Top">
+    <file>BANNER.png</file>
+  </qresource>
+  <qresource prefix="icon_1">
+    <file>Banner_Calculator ICON.png</file>
+    <file>about.png</file>
+    <file>calculator.png</file>
+  </qresource>
+  <qresource prefix="Hi!">
+    <file>Hi_cartoon.png</file>
+  </qresource>
+  <qresource prefix="holder">
+    <file>cgpa.png</file>
+  </qresource>
+</RCC>
