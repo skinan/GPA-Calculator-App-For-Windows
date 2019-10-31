@@ -1,4 +1,4 @@
-# CGPA-CALCULATOR
+# GPA-CALCULATOR
 First software developed by me ....
 For calculating GPA of students of my university.
 
